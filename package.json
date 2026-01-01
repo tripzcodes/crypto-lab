@@ -1,0 +1,37 @@
+{
+  "name": "crypto-entropy-lab",
+  "version": "1.0.0",
+  "description": "Advanced Cryptographic Random Number Generator Research Platform",
+  "main": "dist/index.js",
+  "bin": {
+    "crypto-lab": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "cryptography",
+    "entropy",
+    "random",
+    "prng",
+    "csprng",
+    "security",
+    "complexity-theory"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "cli-progress": "^3.12.0",
+    "@types/cli-progress": "^3.11.5"
+  }
+}
