@@ -1,5 +1,11 @@
 # Crypto Entropy Lab
 
+[![CI](https://github.com/tripzcodes/crypto-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/tripzcodes/crypto-lab/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
 **Advanced Cryptographic Random Number Generator Research Platform**
 
 A comprehensive educational CLI tool that explores randomness from practical implementation through computational complexity theory. Learn cryptography by doing - from basic PRNGs to zero-knowledge proofs.

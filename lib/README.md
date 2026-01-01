@@ -1,5 +1,10 @@
 # Entropy Math Library
 
+[![CI](https://github.com/tripzcodes/crypto-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/tripzcodes/crypto-lab/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-93%25-brightgreen.svg)](https://github.com/tripzcodes/crypto-lab)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](package.json)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+
 Lightweight, zero-dependency TypeScript library for random number generation and entropy simulation.
 
 ## Features
