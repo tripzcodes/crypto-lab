@@ -1,0 +1,46 @@
+{
+  "name": "@tripzcodes/entropy-math",
+  "version": "1.0.0",
+  "description": "Lightweight, zero-dependency TypeScript library for random number generation and entropy simulation",
+  "main": "entropy.js",
+  "types": "entropy.d.ts",
+  "files": [
+    "entropy.js",
+    "entropy.d.ts",
+    "entropy.js.map",
+    "entropy.d.ts.map"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "entropy",
+    "random",
+    "prng",
+    "csprng",
+    "rng",
+    "mersenne-twister",
+    "chacha20",
+    "xorshift",
+    "lcg",
+    "cryptography",
+    "statistics",
+    "hash",
+    "fnv1a",
+    "murmur3"
+  ],
+  "author": "tripzcodes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripzcodes/crypto-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tripzcodes/crypto-lab/issues"
+  },
+  "homepage": "https://github.com/tripzcodes/crypto-lab#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

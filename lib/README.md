@@ -1,5 +1,6 @@
 # Entropy Math Library
 
+[![npm version](https://img.shields.io/npm/v/@tripzcodes/entropy-math.svg)](https://www.npmjs.com/package/@tripzcodes/entropy-math)
 [![CI](https://github.com/tripzcodes/crypto-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/tripzcodes/crypto-lab/actions/workflows/ci.yml)
 [![Coverage](https://img.shields.io/badge/coverage-93%25-brightgreen.svg)](https://github.com/tripzcodes/crypto-lab)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](package.json)
