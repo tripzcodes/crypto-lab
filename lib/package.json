@@ -1,6 +1,6 @@
 {
   "name": "@tripzcodes/entropy-math",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight, zero-dependency TypeScript library for random number generation and entropy simulation",
   "main": "entropy.js",
   "types": "entropy.d.ts",
