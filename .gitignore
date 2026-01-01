@@ -5,3 +5,9 @@ coverage/
 .DS_Store
 .env
 *.tsbuildinfo
+
+# Library build artifacts
+lib/*.js
+lib/*.js.map
+lib/*.d.ts
+lib/*.d.ts.map
