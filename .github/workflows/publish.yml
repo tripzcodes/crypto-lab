@@ -59,6 +59,6 @@ jobs:
         run: cd lib && npx tsc
 
       - name: Publish to GitHub Packages
-        run: cd lib && npm publish
+        run: cd lib && npm publish --registry=https://npm.pkg.github.com
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

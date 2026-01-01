@@ -1,6 +1,6 @@
 {
   "name": "@tripzcodes/entropy-math",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lightweight, zero-dependency TypeScript library for random number generation and entropy simulation",
   "main": "entropy.js",
   "types": "entropy.d.ts",
@@ -42,8 +42,5 @@
   "homepage": "https://github.com/tripzcodes/crypto-lab#readme",
   "engines": {
     "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "@tripzcodes:registry": "https://npm.pkg.github.com"
   }
 }
